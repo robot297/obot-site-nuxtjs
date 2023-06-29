@@ -19,7 +19,7 @@
         <div class="border-2">
             <nav class="container footer-container mx-auto p-4 flex justify-between">
                 <NuxtLink to="/contact_us">Contact Us</NuxtLink><br/>
-                <NuxtLink to="https://www.github.com">Link to Code</NuxtLink>
+                <NuxtLink to="https://github.com/robot297/obot-site-nuxtjs">Link to Code</NuxtLink>
             </nav>
         </div>
     </footer>
