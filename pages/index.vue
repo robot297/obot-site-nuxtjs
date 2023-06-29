@@ -1,6 +1,9 @@
 <template>
     <div>
         <h2>Hello!</h2>
+        <p>
+            Home Page content
+        </p>
     </div>
 </template>
 
